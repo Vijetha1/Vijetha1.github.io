@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Vijetha Gattupalli"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in Deep Learning and Computer Vision"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vijetha-gattupalli-9aa6a519/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
