@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Weakly Supervised Deep Image Hashing through Tag Embeddings"
 collection: publications
-permalink: /publication/2016-01-26-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2016-09-26
+permalink: /publication/underMaking
+excerpt: 'Many approaches to semantic image hashing have been formulated as supervised learning problems that utilize images and label information to learn the binary hash codes. However, large-scale labelled image data is expensive to obtain, thus imposing a restriction on the usage of such algorithms. On the other hand, unlabelled image data is abundant due to the existence of many Web image repositories. Such Web images may often come with images tags that contains useful information, although raw tags in general do not readily lead to semantic labels. Motivated by this scenario, we formulate the problem of semantic image hashing as a weakly-supervised learning problem. We utilize the information contained in the user-generated tags associated with the images to learn the hash codes. More specifically, we extract the word2vec semantic embeddings of the tags and use the information contained in them for constraining the learning. Accordingly, we name our model Weakly Supervised Deep Hashing using Tag Embeddings (WDHT). WDHT is tested for the task of semantic image retrieval and is compared against several state-of-art models. Results show that our approach sets a new state-of-art in the area of weekly supervised image hashing.'
+date: 2018-07-31
 venue: 'Journal 1'
-paperurl: 'https://ieeexplore.ieee.org/document/7532315/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/abs/1806.05804'
+citation: 'Vijetha Gattupalli, Baoxin Li. (2018). &quot;Weakly Supervised Deep Image Hashing through Tag Embeddings.&quot; <i>https://arxiv.org/abs/1806.05804</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Many approaches to semantic image hashing have been formulated as supervised learning problems that utilize images and label information to learn the binary hash codes. However, large-scale labelled image data is expensive to obtain, thus imposing a restriction on the usage of such algorithms. On the other hand, unlabelled image data is abundant due to the existence of many Web image repositories. Such Web images may often come with images tags that contains useful information, although raw tags in general do not readily lead to semantic labels. Motivated by this scenario, we formulate the problem of semantic image hashing as a weakly-supervised learning problem. We utilize the information contained in the user-generated tags associated with the images to learn the hash codes. More specifically, we extract the word2vec semantic embeddings of the tags and use the information contained in them for constraining the learning. Accordingly, we name our model Weakly Supervised Deep Hashing using Tag Embeddings (WDHT). WDHT is tested for the task of semantic image retrieval and is compared against several state-of-art models. Results show that our approach sets a new state-of-art in the area of weekly supervised image hashing.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/1806.05804)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Vijetha Gattupalli, Baoxin Li. (2018). &quot;Weakly Supervised Deep Image Hashing through Tag Embeddings.&quot; <i>https://arxiv.org/abs/1806.05804</i>.
