@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Under Construction"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+<!-- redirect_from: -->
+  <!-- - /resume -->
 ---
 Under Construction
 <!-- 
