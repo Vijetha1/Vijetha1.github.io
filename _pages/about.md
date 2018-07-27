@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "This website is still under construction. "
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+I am a second year Ph.D. student in Computer Science department at Arizona State University(ASU) supervised by Dr.Baoxin Li. I graduated with Master of Science degree from ASU in August, 2016 with a thesis in an application of Deep Learning. The problem statement was to learn better aesthetic related features in images using the "relative learning" technique proposed in the well-known "Relative Attributes" paper. Likewise, my Master's degree was mainly focused towards gaining in-depth knowledge in Machine Learning and Deep Learning concepts and applying them to various research problems. On similar lines, I would like to pursue my Ph.D research in Deep Learning with good emphasis on both theory as well as applications in Computer Vision.
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website -->
