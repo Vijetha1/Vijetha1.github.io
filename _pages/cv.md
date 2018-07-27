@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+Under Construction
+<!-- 
 {% include base_path %}
 
 Education
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
